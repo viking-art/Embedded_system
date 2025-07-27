@@ -1,2 +1,2 @@
 # Embedded system
-Source code for meta rasp pi yocto
+Source code for meta rasp pi
